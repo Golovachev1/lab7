@@ -309,7 +309,7 @@ let questions = [
   {
     id: 20,
     text: 'Благодаря золоту, вы смогли купить новый дом и ни в чём больше себе не отказывали',
-    image: "https://avatars.mds.yandex.net/i?id=27b0ff5c7d20aca9bd7bee2f0f85df19092d6930-8235455-images-thumbs&n=13",
+    image: "https://www.wallpaperbetter.com/wallpaper/762/924/915/the-gravensteen-1080P-wallpaper.jpg",
     options: [
       {
         text: 'Вы победили. Сыграть ещё раз?',
