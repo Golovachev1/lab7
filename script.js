@@ -63,7 +63,7 @@ let questions = [
   {
     id: 2,
     text: 'Вы идёте по коридору и встречаете ловушку. Вы что-то слышали про её прохождение, что будете делать?',
-    image: "prison.jpg",
+    image: "https://avatars.dzeninfra.ru/get-zen_doc/4723473/pub_637e026cf4020f7470717a82_637e081dd275ce4757bf4cdf/scale_1200",
     options: [
       {
         text: 'Пробежать через ловушку',
