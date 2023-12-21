@@ -164,7 +164,7 @@ let questions = [
   {
     id: 9,
     text: 'Вы набросились на медведя с мечом и отрубили ему голову. После того, как медведь был убит, вы решили остаться жить в этом замке',
-    image: "beer.jpg",
+    image: "https://w.forfun.com/fetch/2d/2d2a1a71461e076a48670ee332c402ed.jpeg",
     options: [
       {
         text: 'Вы победили. Сыграть ещё раз?',
@@ -175,7 +175,7 @@ let questions = [
   {
     id: 10,
     text: 'При попытке пробега через ловушку, пол обрушился под вами. Вы провалились вниз, напоролись на острые шипы и погибли',
-    image: "pol.jpg",
+    image: "http://images.gamersyde.com/image_prince_of_persia_the_two_thrones-1601-734_0011.jpg",
     options: [
       {
         text: 'Переиграть',
@@ -186,7 +186,7 @@ let questions = [
   {
     id: 11,
     text: 'Вы оказываетесь в столовой. На столе лежит сыр, рядом с ним - бутылка вина. Что возьмете в первую очередь?',
-    image: "wine.jpg",
+    image: "https://oboi-store.ru/files/products/wp00352-fotooboi-verol-fotooboi-decoline-23905187-302188.520x520x1x1.jpg",
     options: [
       {
         text: 'Сыр',
@@ -201,7 +201,7 @@ let questions = [
   {
     id: 12,
     text: 'Сыр оказался очень вкусным. После того, как вы отдохнули, вы задумались о своей безопасности',
-    image: "castle.jpg",
+    image: "https://avatars.mds.yandex.net/i?id=13b27978f43499fad7030f54fb8423842855f27b-10782253-images-thumbs&n=13",
     options: [
       {
         text: 'Нужно немедленно уходить из замка',
@@ -216,7 +216,7 @@ let questions = [
   {
     id: 13,
     text: 'С трудом, но вы преодолели ту же дорогу, по которой и пришли. И вернулись домой',
-    image: "home.jpg",
+    image: "https://crosti.ru/patterns/00/21/21/78_picture_cf2e228b.jpg",
     options: [
       {
         text: 'Вы победили. Сыграть ещё раз?',
@@ -249,7 +249,7 @@ let questions = [
   {
     id: 16,
     text: 'Вы почувствовали, что вам хочется спать. Однако, замок всё еще был не исследован',
-    image: "bed.jpg",
+    image: "https://mykaleidoscope.ru/uploads/posts/2021-10/1634057582_1-mykaleidoscope-ru-p-spalnya-v-srednevekovom-zamke-interer-kras-1.jpg",
     options: [
       {
         text: 'Лечь спать',
@@ -309,7 +309,7 @@ let questions = [
   {
     id: 20,
     text: 'Благодаря золоту, вы смогли купить новый дом и ни в чём больше себе не отказывали',
-    image: "newCastle.jpg",
+    image: "https://avatars.mds.yandex.net/i?id=27b0ff5c7d20aca9bd7bee2f0f85df19092d6930-8235455-images-thumbs&n=13",
     options: [
       {
         text: 'Вы победили. Сыграть ещё раз?',
@@ -320,7 +320,7 @@ let questions = [
   {
     id: 21,
     text: 'Использовав полученное золото, вы помогли многим людям, тем самым обрели много новых друзей',
-    image: "crowd.jpg",
+    image: "https://www.semiestrel.ru/wp-content/uploads/2021/10/ploshhad-senorii-2048x1308.jpg",
     options: [
       {
         text: 'Вы победили. Сыграть ещё раз?',
