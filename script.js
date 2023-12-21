@@ -309,7 +309,7 @@ let questions = [
   {
     id: 20,
     text: 'Благодаря золоту, вы смогли купить новый дом и ни в чём больше себе не отказывали',
-    image: "https://www.wallpaperbetter.com/wallpaper/762/924/915/the-gravensteen-1080P-wallpaper.jpg",
+    image: "https://cdn.puzzlegarage.com/img/puzzle/13/3155_thumb_r.v1.jpg",
     options: [
       {
         text: 'Вы победили. Сыграть ещё раз?',
