@@ -264,7 +264,7 @@ let questions = [
   {
     id: 17,
     text: 'В комнате вы обнаружили сундук с золотыми монетами',
-    image: "1673864215_pro-dachnikov-com-p-kartinki-sunduk-s-sokrovishchami-foto-5.jpg",
+    image: "https://pro-dachnikov.com/uploads/posts/2023-01/1673864215_pro-dachnikov-com-p-kartinki-sunduk-s-sokrovishchami-foto-5.jpg",
     options: [
       {
         text: 'Взять сундук',
@@ -279,7 +279,7 @@ let questions = [
   {
     id: 18,
     text: 'Вы взяли сундук и унесли его себе домой. Как бы вы хотели распорядиться золотом?',
-    image: "gold.jpg",
+    image: "https://pro-dachnikov.com/uploads/posts/2023-01/1673864215_pro-dachnikov-com-p-kartinki-sunduk-s-sokrovishchami-foto-5.jpg",
     options: [
       {
         text: 'Потратить на себя',
