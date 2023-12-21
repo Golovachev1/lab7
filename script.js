@@ -44,7 +44,7 @@ let questions = [
   {
     id: 1,
     text: 'Вы находитесь в комнате с тремя дверьми. Выберите куда пойти:',
-    image: "1668611925_32-na-dache-pro-p-foto-skazochnoi-dveri-33.jpg",
+    image: "https://kartinkin.net/uploads/posts/2022-12/thumbs/1670593563_32-kartinkin-net-p-skazochnie-vorota-kartinki-pinterest-35.jpg",
     options: [
       {
         text: 'Пойти через правую дверь',
@@ -294,7 +294,7 @@ let questions = [
   {
     id: 19,
     text: 'Опасаясь брать посторонние вещи в замке, вы решили продолжить свой путь',
-    image: "doors.jpg",
+    image: "https://kartinkin.net/uploads/posts/2022-12/thumbs/1670593563_32-kartinkin-net-p-skazochnie-vorota-kartinki-pinterest-35.jpg",
     options: [
       {
         text: 'Пойти через правую дверь',
