@@ -44,7 +44,7 @@ let questions = [
   {
     id: 1,
     text: 'Вы находитесь в комнате с тремя дверьми. Выберите куда пойти:',
-    image: "https://w.forfun.com/fetch/03/03f8cd3f6796daaacc1fe43ffb7704b7.jpeg",
+    image: "1668611925_32-na-dache-pro-p-foto-skazochnoi-dveri-33.jpg",
     options: [
       {
         text: 'Пойти через правую дверь',
