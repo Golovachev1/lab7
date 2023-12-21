@@ -43,7 +43,7 @@ function selectOption(option) {
 let questions = [
   {
     id: 1,
-    text: 'Вы находитесь в комнате с тремя дверями. Выберите, куда пойти:',
+    text: 'Привет:',
     image: "doors.jpg",
     options: [
       {
