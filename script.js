@@ -78,7 +78,7 @@ let questions = [
   {
     id: 3,
     text: 'Вы находитесь в комнате со статуей Сфинкса. Она задаёт вам загадку: "Кто двигается утром на четырёх ногах, днём - на двух, вечером - на трёх?',
-    image: "sfinks.jpg",
+    image: "https://avatars.dzeninfra.ru/get-zen_doc/8246938/pub_640de38d8c6f9346cfa57ef8_640de56516e2f234c91cc951/scale_1200",
     options: [
       {
         text: 'Обезьяна',
@@ -97,7 +97,7 @@ let questions = [
   {
     id: 4,
     text: 'Ответ на вопрос оказался неверным. Дверь позади вас захлопнулась, оставив вас здесь навсегда без шансов побега',
-    image: "podval.jpeg",
+    image: "https://www.kingdom-of-games.com/plugins/galerie/galerien/clockwork-tales-glass-ink/clockwork-tales-glass-ink-shot05.jpg",
     options: [
       {
         text: 'Переиграть',
@@ -108,7 +108,7 @@ let questions = [
   {
     id: 5,
     text: 'Узнав, что ловушку можно обойти, вам удалось найти верный путь к следующей двери. Что будете делать теперь?',
-    image: "castle.jpg",
+    image: "https://avatars.mds.yandex.net/i?id=13b27978f43499fad7030f54fb8423842855f27b-10782253-images-thumbs&n=13",
     options: [
       {
         text: 'Осмотреть замок',
@@ -123,7 +123,7 @@ let questions = [
   {
     id: 6,
     text: 'Пока вы осматриваете замок, страшный медведь оказывается перед вами',
-    image: "meet.jpg",
+    image: "https://sportishka.com/uploads/posts/2022-11/1667456625_26-sportishka-com-p-medved-borets-oboi-34.jpg",
     options: [
       {
         text: 'Попытаться убежать',
@@ -142,7 +142,7 @@ let questions = [
   {
     id: 7,
     text: 'Ваша попытка убежать не удалась. Медведь настиг и разорвал вас',
-    image: "run.jpg",
+    image: "https://static.wixstatic.com/media/2a34d8_e124a4e9c0a040c6aec8e737d6894757~mv2.jpg/v1/fill/w_1000,h_640,al_c,q_90,usm_0.66_1.00_0.01/2a34d8_e124a4e9c0a040c6aec8e737d6894757~mv2.jpg",
     options: [
       {
         text: 'Переиграть',
@@ -153,7 +153,7 @@ let questions = [
   {
     id: 8,
     text: 'Это была неудачная идея. Медведю удалось сломать щит и достать вас',
-    image: "bear.jpg",
+    image: "https://v-kurse.ru/wp-content/uploads/2021/10/9861640-medved-bear-otkryl-rot-zuby-buryy-zloy-zloba-scaled.jpg",
     options: [
       {
         text: 'Переиграть',
@@ -227,7 +227,7 @@ let questions = [
   {
     id: 14,
     text: 'Наступила ночь, и вы уснули на кровати в соседней команде. Но пока вы спали, в вашу комнату пришёл медведь и убил вас',
-    image: "bear.jpg",
+    image: "https://v-kurse.ru/wp-content/uploads/2021/10/9861640-medved-bear-otkryl-rot-zuby-buryy-zloy-zloba-scaled.jpg",
     options: [
       {
         text: 'Переиграть',
@@ -238,7 +238,7 @@ let questions = [
   {
     id: 15,
     text: 'После того, как вы выпили всю бутылку, вас потянуло на сон. Пока вы спали, медведь, который был в этом замке залез к вам в комнату и убил вас',
-    image: "bear.jpg",
+    image: "https://v-kurse.ru/wp-content/uploads/2021/10/9861640-medved-bear-otkryl-rot-zuby-buryy-zloy-zloba-scaled.jpg",
     options: [
       {
         text: 'Переиграть',
