@@ -14,7 +14,14 @@
     height: 100vh;
     background-color: #335;
   }
-  
+
+.text {
+    width: 800px;
+    max-width: 80%;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 2px;
+}
   .container {
     width: 800px;
     max-width: 80%;
