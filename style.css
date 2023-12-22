@@ -15,12 +15,13 @@
     background-color: #335;
   }
 
-.text {
-    width: 800px;
-    max-width: 80%;
-    padding: 100px;
-    border-radius: 5px;
-    box-shadow: 50 100 100px 20px;
+header {
+    font-family:'Courgette', sans-serif;
+    text-align: center;
+    font-size: 200%;
+    background-color:#bdffdb;
+    border-bottom: 10px solid #3f00be;
+    padding: 0.5%;
 }
   .container {
     width: 800px;
