@@ -14,15 +14,6 @@
     height: 100vh;
     background-color: #335;
   }
-
-header {
-    font-family:'Courgette', sans-serif;
-    text-align: center;
-    font-size: 200%;
-    background-color:#bdffdb;
-    border-bottom: 10px solid #3f00be;
-    padding: 0.5%;
-}
   .container {
     width: 800px;
     max-width: 80%;
